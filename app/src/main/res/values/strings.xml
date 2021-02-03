@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="LogIn">ავტორიზაცია</string>
+    <string name="Email">ელ.ფოსტა</string>
+    <string name="Password">პაროლი</string>
+    <string name="Log">შესვლა</string>
+    <string name="regis">რეგისტრაცია</string>
+    <string name="or">ან</string>
+    <string name="singup">დარეგისტრირება</string>
+    <string name="back">უკან</string>
+    <string name="nubmer">ნომერი</string>
+    <string name="name">სახელი და გვარი</string>
+</resources>
